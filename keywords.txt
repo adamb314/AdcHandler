@@ -1,0 +1,9 @@
+AdcHandler	KEYWORD1
+AdcSamplerInstance	KEYWORD1
+AnalogSampler	KEYWORD1
+AverageAnalogSampler	KEYWORD1
+
+init	KEYWORD2
+triggerSample	KEYWORD2
+sampleReady	KEYWORD2
+getValue	KEYWORD2
